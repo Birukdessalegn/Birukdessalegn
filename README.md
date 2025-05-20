@@ -33,3 +33,15 @@ I enjoy learning new technologies and applying them to solve real-world problems
 -  Fullstack web developemnt
 
 -  React toolikit
+
+
+## GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Birukdessalegn&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Birukdessalegn&layout=compact&theme=dark)
+
+
+
+## How to Reach Me
+- LinkedIn: Biruk Dessalegn(www.linkedin.com/in/biruk-dessalegn)
+- Email: birukdessalegn123@gmail.com

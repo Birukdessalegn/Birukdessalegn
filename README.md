@@ -13,13 +13,13 @@ I enjoy learning new technologies and applying them to solve real-world problems
 
 
 
-- Languages: Python,Javascript , jupyternotebook,Html,CSS
+- Languages: Python,Javascript , jupyternotebook,Html,CSS,PHP
 
 
 - Frameworks/Libraries: React, Node.js, Django,Express-node-js,next.js
 
 
-- Databases: MySQL, MongoDB
+- Databases: MySQL
 
 
 - Tools: Git, VS Code,IntelIj

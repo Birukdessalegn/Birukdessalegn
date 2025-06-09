@@ -32,7 +32,7 @@ I enjoy learning new technologies and applying them to solve real-world problems
 -  AI
 -  Fullstack web developemnt
 
--  React toolikit
+-  React Native
 
 
 ## GitHub Stats

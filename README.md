@@ -3,7 +3,7 @@
 # About Me
 
 
- I'm a passionate developer with a keen interest in software development, open source, and building impactful projects. 
+ I'm a passionate developer aslo Security Engineer with a keen interest in software development, open source, and building impactful projects. 
 
 
 I enjoy learning new technologies and applying them to solve real-world problems.

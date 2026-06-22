@@ -13,10 +13,10 @@ I enjoy learning new technologies and applying them to solve real-world problems
 
 
 
-- Languages: Python,Javascript , jupyternotebook
+- Languages: Java , javascript , Typescript , SQL
 
 
-- Frameworks/Libraries: React, Node.js, Django,Express-node-js,next.js, SPring boot
+- Frameworks/Libraries: React, Node.js ,next.js, SPring boot
 
 
 - Databases: MySQL,MongoDB,Posgresql
@@ -29,7 +29,7 @@ I enjoy learning new technologies and applying them to solve real-world problems
 
 
 -  Advanced Cyber Security (Red Team)
--  AI
+ 
 -  Fullstack web developemnt
 
 -  React Native

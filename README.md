@@ -92,13 +92,6 @@ A web-based ticketing solution designed to simplify theatre ticket management an
 - 🎓 A2SV Data Structures and Algorithms Scholarship
 - 🚀 Founder / Developer at AmbbaTech
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Birukdessalegn&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Birukdessalegn&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Birukdessalegn&theme=dark&hide_border=true)
 
 ## 📫 Let's Connect
 

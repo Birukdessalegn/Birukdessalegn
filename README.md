@@ -40,7 +40,7 @@ I enjoy transforming ideas into practical products, contributing to open-source 
 
 ## 💻 Featured Projects
 
-### 🏨 Kasina Hotel Management System
+### 🏨 Hotel Management System
 A comprehensive hotel management solution designed to streamline hotel operations, including:
 - Front Desk and Room Reservations
 - Multi-Outlet Point of Sale (POS)
@@ -49,7 +49,7 @@ A comprehensive hotel management solution designed to streamline hotel operation
 - Finance and Accounting
 - HR and Payroll Management
 
-### 🏢 The Oak Club – Club Management System
+### 🏢 Club Management System
 A centralized club management solution with multiple user roles and operational modules.
 - Member and Staff Management
 - POS and Sales Management
